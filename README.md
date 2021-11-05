@@ -1,13 +1,4 @@
-# Object Detection (using TensorFlow.js with Coco-SSD Model)  ![Version][version-image]
-
-![Linux Build][linuxbuild-image]
-![Windows Build][windowsbuild-image]
-![NSP Status][nspstatus-image]
-![Test Coverage][coverage-image]
-![Dependency Status][dependency-image]
-![devDependencies Status][devdependency-image]
-
-The quickest way to get start with Object Detection (using TensorFlow.js with Coco-SSD Model), just clone the project:
+# Object Detection (using Mobilenet with Coco-SSD Imagenet Dataset)   
 
 ```bash
 $ git clone https://github.com/kushagraj81/ObjectDtection-Minor-project.git
